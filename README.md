@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-my first repo
+I am studying CS at NITK
